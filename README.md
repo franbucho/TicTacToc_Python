@@ -1,4 +1,3 @@
-```markdown
 # Tic-Tac-Toe en Python con Interfaz Gráfica (Tkinter)
 
 Este es un juego simple de Tic-Tac-Toe implementado en Python utilizando la biblioteca gráfica Tkinter. El juego permite que dos jugadores se turnen para marcar las casillas en un tablero 3x3 y verifica automáticamente si hay un ganador o si el juego termina en empate.
