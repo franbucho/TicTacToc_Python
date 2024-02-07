@@ -23,6 +23,11 @@ Haz clic en las casillas del tablero para realizar tus movimientos. El juego ind
 - Verificación automática de ganador o empate después de cada movimiento.
 - Opción para reiniciar el juego después de que se alcanza un resultado.
 
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
 ## Personalización
 
 Siéntete libre de modificar y expandir el código según tus preferencias. Puedes ajustar la apariencia, la disposición de los elementos y agregar características adicionales para adaptar el juego a tus necesidades.
